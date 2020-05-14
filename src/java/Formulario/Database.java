@@ -20,7 +20,7 @@ public class Database {
 
     /**
      * 
-     * @param radicado
+     * @param  radicado
      * @param lvlSatisfaccion
      * @param repServicio 
      * @return String
